@@ -28,13 +28,13 @@ twitter_username: Shenzao
 github_username:  ShenzaoOfBorg
 
 # Build settings
-# theme: minima
-remote-theme: jekyll/minima
+# theme: midnight
+remote-theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-minima:
-  skin: dark
+# minima:
+#   skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
